@@ -1,2 +1,3 @@
 # Country-Infomation
-This is a shot python code to illustrate countries infomation
+# Start by installing *pip install countryinfo*
+# This is a short python code to illustrate countries infomation
